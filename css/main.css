@@ -1,0 +1,24 @@
+body {
+background-color: gray;
+}
+
+section {
+  float: left;
+}
+
+div {
+  margin: 10px;
+  position: relative;
+  float: left;
+}
+h6 {
+  position: relative;
+  color: orange;
+  display: inline;
+  bottom: 35px;
+  left: 75%;
+}
+img {
+  overflow-y: auto;
+  display: block;
+}
